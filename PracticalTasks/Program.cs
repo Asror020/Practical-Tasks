@@ -9,7 +9,7 @@ baseNum = Convert.ToInt32(Console.ReadLine());
 string digits = "0123456789ABCDEFGHIJ";
 string ans = "";
 
-while(dec > 0)
+while (dec > 0)
 {
     int remainder = dec % baseNum;
 
